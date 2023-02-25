@@ -1,0 +1,30 @@
+span{
+    font-weight:bold;
+    color:red,
+  }
+
+   input{
+    margin-left: 320px;
+  } 
+  .enddt{
+    margin-left: 283px;
+  }
+  .mobno{
+    margin-left: 250px;
+  }
+  .gen{
+    margin-left: 310px;
+  }
+  .addres{
+    margin-left: 305px;
+    margin-top: 2px;
+  }
+  .city{
+    margin-left: 335px;
+  }
+  .state{
+    margin-left: 326px;
+  }
+  .postcd{
+    margin-left: 280px;
+  }
